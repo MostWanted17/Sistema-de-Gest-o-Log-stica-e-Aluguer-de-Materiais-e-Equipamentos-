@@ -1,0 +1,18 @@
+{
+   "require": {
+        "smarty/smarty": "~3.1",
+      "mpdf/mpdf": "^8.1"
+    },
+    "config": {
+        "vendor-dir" : "lib/",
+      "platform": {
+         "php": "7.2.34"
+      }
+    },
+    "autoload": {
+        "classmap" : ["model/"]
+    }
+    
+
+
+}
