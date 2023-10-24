@@ -11,7 +11,7 @@ class ConexaoPHP
         $this->host = 'localhost';
         $this->user = 'root';
         $this->senha = '';
-        $this->banco = 'transporteschong';
+        $this->banco = 'transport';
         $this->prefix = '';
 
         $this->estabelecerConexao();
